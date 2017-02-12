@@ -17,4 +17,4 @@ Butterflies of Micronesica | University of Guam | <http://guaminsects.myspecies.
 
 ## Results
 
-* As a test case, Donat Agosti used GG-Imagine to process the Insects of Micronesia issue on Eucoilinae (Cynipoidea) (available online at <http://hbs.bishopmuseum.org/pubs-online/pdf/iom19-3.pdf>) and posted results on [TreatmentBank](http://tb.plazi.org/GgServer/summary/30437113946AFF91825DFF8D9E42FFE8).
+* As a test case, Donat Agosti used GG-Imagine to process the Insects of Micronesia issue on Eucoilinae (Cynipoidea) (available online at <http://hbs.bishopmuseum.org/pubs-online/pdf/iom19-3.pdf>) and posted results on [TreatmentBank](http://tb.plazi.org/GgServer/summary/30437113946AFF91825DFF8D9E42FFE8) and [Zenodo](https://zenodo.org/record/268892#.WKDtu1dsRz0).
