@@ -8,4 +8,3 @@ Source | Published by | Location
 Insects of Micronesia Series | Bishop Museum  | Most issues available online at <http://hbs.bishopmuseum.org/pubs-online/iom.html>
 Insects of Guam I | Bishop Museum | Hard copy available
 Insects of Guam II | Bishop Museuam | Hard copy available
---- | --- | ---
