@@ -14,3 +14,7 @@ Butterflies of Micronesica | University of Guam | <http://guaminsects.myspecies.
 
 * Data mining and validation will be facilitated by use of the [Plazi Golden Gate Imagine editor](http://plazi.org/resources/treatmentbank/goldengate-editor/). 
 * Data extracted from each publication will be saved in a [Darwin Core Archive](https://en.wikipedia.org/wiki/Darwin_Core_Archive) for eventual ingestion into the Guam biodiversity inventory.
+
+## Results
+
+* As a test case, Donat Agosti processed the Insects of Micronesia issue on Eucoilinae (Cynipoidea) <http://hbs.bishopmuseum.org/pubs-online/pdf/iom19-3.pdf> using GG-Imagine and posted the results on [TreatmentBank](http://tb.plazi.org/GgServer/summary/30437113946AFF91825DFF8D9E42FFE8).
