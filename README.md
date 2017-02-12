@@ -5,9 +5,10 @@ The objective of this project is to harvest information from published literatur
 
 Source | Published by | Location
 --- | --- | ---
-Insects of Micronesia Series | Bishop Museum  | Most issues available online PDFs at <http://hbs.bishopmuseum.org/pubs-online/iom.html>
+Insects of Micronesia Series | Bishop Museum and University of Guam (Micronesica)  | Most issues available as online PDFs at <http://hbs.bishopmuseum.org/pubs-online/iom.html> and <http://micronesica.org/more/insects-micronesia>
 Insects of Guam I | Bishop Museum | Hard copy available
 Insects of Guam II | Bishop Museum | Hard copy available
+Butterflies of Micronesica | University of Guam | [PDF](http://guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf)
 
 ## Methods
 
