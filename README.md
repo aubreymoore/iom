@@ -12,4 +12,4 @@ Insects of Guam II | Bishop Museum | Hard copy available
 ## Methods
 
 * Data mining and validation will be facilitated by use of the [Plazi Golden Gate Imagine editor](http://plazi.org/resources/treatmentbank/goldengate-editor/). 
-* Data extacted from each publication will be saved in a Darein Core Archive.
+* Data extacted from each publication will be saved in a Darwin Core Archive.
